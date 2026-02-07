@@ -130,4 +130,3 @@ Modalas padarytas teisingai, jei:
 - Background nescrollina ✅  
 - Formos duomenys nedingsta (jei turi likti) ✅  
 - Modalas nėra „nukirptas“ dėl `overflow` ✅  
-:)
